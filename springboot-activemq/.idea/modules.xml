@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/p2p_consumer/p2p_consumer.iml" filepath="$PROJECT_DIR$/p2p_consumer/p2p_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p_provider/p2p_provider.iml" filepath="$PROJECT_DIR$/p2p_provider/p2p_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pub_sub_consumer/pub_sub_consumer.iml" filepath="$PROJECT_DIR$/pub_sub_consumer/pub_sub_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pub_sub_consumer2/pub_sub_consumer2.iml" filepath="$PROJECT_DIR$/pub_sub_consumer2/pub_sub_consumer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pub_sub_provider/pub_sub_provider.iml" filepath="$PROJECT_DIR$/pub_sub_provider/pub_sub_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-activemq.iml" filepath="$PROJECT_DIR$/springboot-activemq.iml" />
+    </modules>
+  </component>
+</project>
