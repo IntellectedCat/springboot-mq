@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="858601da-fd58-402c-9316-1e6c241c5cdf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../apg/daily-build/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apg/daily-build/build-tools/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apg/daily-build/build-tools/src/main/resources/checkstyle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apg/daily-build/build-tools/src/main/resources/findbugs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apg/daily-build/package-domestic.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apg/daily-build/package-international.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apg/daily-build/package.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apg/daily-build/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apg/daily-build/settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-activemq/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-activemq/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\mavenRepository\local\repository" />
+        <option name="mavenHome" value="D:/WORK NECESSARY SOFTWARE/apache-maven-3.2.1" />
+        <option name="userSettingsFile" value="D:\mavenRepository\local\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hwsIpgSd1tMB7sFRXg7w35Pyjl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager">
+    <configuration name="JedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jedis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="top.stdy.jedis.JedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="858601da-fd58-402c-9316-1e6c241c5cdf" name="Default Changelist" comment="" />
+      <created>1600933411466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600933411466</updated>
+      <workItem from="1600933421203" duration="2422000" />
+      <workItem from="1603952363601" duration="2766000" />
+      <workItem from="1604048339369" duration="1535000" />
+      <workItem from="1606199463929" duration="6183000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Project_Settings" timestamp="1606201023748">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Project_Settings/0.0.1366.728@0.0.1366.728" timestamp="1606201023748" />
+    <state x="90" y="27" width="1174" height="692" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606199500939">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="90" y="27" width="1174" height="692" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1606199500939" />
+    <state x="406" y="155" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606199496417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="406" y="155" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1606199496417" />
+    <state x="408" y="187" key="AddEditExclusionDialog" timestamp="1606201023049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="408" y="187" key="AddEditExclusionDialog/0.0.1366.728@0.0.1366.728" timestamp="1606201023049" />
+    <state x="157" y="0" key="CommitChangelistDialog2" timestamp="1606206682734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="157" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606206682734" />
+    <state x="357" y="108" key="FileChooserDialogImpl" timestamp="1606201022178">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="357" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606201022178" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1606199572683">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606199572683" />
+    <state x="381" y="256" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1600934126545">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="381" y="256" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1600934126545" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1606200599029">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1606200599029" />
+  </component>
+</project>
